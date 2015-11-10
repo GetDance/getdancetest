@@ -31,7 +31,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 				      <grid>
 				        <section> 
 						                  //2
-								  <lockup videoURL="http://www.nh-hh-recycling.de/files/demo/Nh%20Hh%20Final%20Mov%20091013%20Hd-1.mp4">
+								  <lockup videoURL="https://s3.eu-central-1.amazonaws.com/getdance/Elevator+Pitch+BW+Heidelberg-Mannheim%2C+01.10.2015+-+GetDance.mp4">
 								    <img src="${this.BASEURL}images/ray.png" width="500" height="308" />
 								  </lockup>
 								  <lockup videoURL="http://www.rwdevcon.com/videos/Ryan-Nystrom-Contributing.mp4">
