@@ -18,7 +18,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
     <catalogTemplate class="main"> 
       <banner> 
         <background>
-         <img src="${this.BASEURL}images/banner2.png" width="1920" height="360" />
+         <img src="${this.BASEURL}images/banner3.png" width="1920" height="360" />
         </background>
       </banner>
       <list> 
